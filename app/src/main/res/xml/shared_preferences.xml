@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="towels_or_linen"
+        android:defaultValue="@string/towels" />
+    <Preference
+        android:key="previous_date"
+        android:defaultValue="-" />
+</PreferenceScreen>

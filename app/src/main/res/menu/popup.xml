@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/towels"
+        android:id="@+id/popup_item_towels" />
+    <item
+        android:title="@string/linen"
+        android:id="@+id/popup_item_linen" />
+
+</menu>

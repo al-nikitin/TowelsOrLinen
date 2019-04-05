@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TowelsOrLinen</string>
+    <string name="towels">Полотенца</string>
+    <string name="linen">Белье</string>
+    <string name="textview_base_text1">В прошлый раз (</string>
+    <string name="textview_base_text2">) меняли: </string>
+</resources>
